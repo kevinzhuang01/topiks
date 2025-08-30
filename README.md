@@ -1,6 +1,6 @@
 # 🎥 YouTube Video Analyzer
 
-> **CSUF 2025 Spring Hackathon Project**  
+> **CSUF 2024 Spring Hackathon Project**  
 > An intelligent YouTube video analysis platform that transcribes, summarizes, and analyzes video content with sentiment analysis capabilities.
 
 ## 🌟 Features
